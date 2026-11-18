@@ -1,0 +1,4 @@
+{
+  "name": "cas/laravel-incomplet",
+  "require": { "laravel/framework": "^11.0" }
+}
