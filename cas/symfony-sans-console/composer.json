@@ -1,0 +1,4 @@
+{
+  "name": "cas/symfony-sans-console",
+  "require": { "symfony/framework-bundle": "^7.0" }
+}

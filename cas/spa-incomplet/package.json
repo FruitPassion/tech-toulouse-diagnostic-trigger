@@ -1,0 +1,5 @@
+{
+  "name": "spa-incomplet",
+  "private": true,
+  "scripts": { "build": "echo build" }
+}
